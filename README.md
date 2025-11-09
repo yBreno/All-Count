@@ -50,9 +50,9 @@ O foco é mostrar como a **programação pode transformar a educação** e abrir
 ## 🧑‍💻 Desenvolvido por  
 
 **Breno Redusino**  
-**Miguel Morilha Hermosilla** 
+**Miguel Morilha Hermosilla**   
 **Heitor Cardoso Julio** 
 
 ---
 
-*Eai, o que achou? 😊 *
+*Eai, o que achou?* 😊
