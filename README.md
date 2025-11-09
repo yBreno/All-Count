@@ -15,7 +15,6 @@ Tornar a **aprendizagem matemática acessível para todos**, utilizando a tecnol
 
 🍎 **Contagem:** o jogador vê um número e deve arrastar a quantidade correspondente de frutas para a cesta.  
 🍌 **Nome da fruta:** o jogador vê a imagem e escolhe o nome correto.  
-🎨 **Cores:** o mesmo conceito, mas com cores.  
 🧠 **Jogo da memória:** encontre os pares de frutas!  
 
 ---
