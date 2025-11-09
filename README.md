@@ -49,9 +49,10 @@ O foco é mostrar como a **programação pode transformar a educação** e abrir
 
 ## 🧑‍💻 Desenvolvido por  
 
-**Breno Redusino (Brene)**  
-💜 Apaixonado por tecnologia, acessibilidade e criação de experiências que unem lógica e arte.  
+**Breno Redusino**  
+**Miguel Morilha Hermosilla** 
+**Heitor Cardoso Julio** 
 
 ---
 
-⭐ *Se esse projeto te inspirar, não esqueça de deixar uma estrela!*
+*Eai, o que achou? 😊 *
