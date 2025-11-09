@@ -22,7 +22,7 @@ Tornar a **aprendizagem matemática acessível para todos**, utilizando a tecnol
 ## ⚙️ Tecnologias  
 
 - 🕹️ **Godot Engine**  
-- 🎨 **Design acessível** (cores contrastantes, ícones grandes e feedback visual)  
+- 🎨 **Design acessível** (cores contrastantes, ícones grandes, feedback visual e comandos por voz)  
 - 🧠 **Lógica simples e adaptada** para o público-alvo  
 
 ---
