@@ -32,6 +32,8 @@ Tornar a **aprendizagem matemática acessível para todos**, utilizando a tecnol
 🎥 Assista ao vídeo de apresentação no YouTube:  
 👉 [**Clique aqui para ver o All Count em ação!**](https://youtube.com/shorts/6MlwP1mmOAY)
 
+---
+
 ![Texto alternativo](Imagem1.png)
 ![Texto alternativo](Imagem2.png)
 ![Texto alternativo](Imagem3.png)
